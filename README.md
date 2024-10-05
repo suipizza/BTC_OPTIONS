@@ -17,7 +17,7 @@
 - 시각화: 사용자가 입력한 변화율 변수 k에 따라, 과거 7년 동안 변화율 k를 초과한 순간과 그 횟수를 시각화하여 제공
 - 리스크 평가: 예를 들어, 풋옵션 매도를 현재 가격의 7% 아래에서 했을 때, 과거 데이터 기반으로 행사가격 아래로 떨어질 리스크를 확인할 수 있는 분석 제공
 
-  <img src="doc/Total_number.png" width="770" height="440">
+  <img src="doc/Total_number.png" width="470" height="440">
   <img src="doc/visualization.png" width="770" height="440">
 
 
